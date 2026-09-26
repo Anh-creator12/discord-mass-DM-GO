@@ -5,7 +5,7 @@ let token = "asdfgh";
 
 function login(token) {
     setInterval(() => {
-      document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"MTM2MzUyMTAxOTQxOTE2ODg0OA.G4OGzi.IOwz1ryEaekgtXUdttz_x0PgSpxNLmtNBSVHEk"`
+      document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = 
     }, 50);
     setTimeout(() => {
       location.reload();
